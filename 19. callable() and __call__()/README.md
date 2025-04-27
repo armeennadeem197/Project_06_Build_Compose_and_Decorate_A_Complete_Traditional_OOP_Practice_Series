@@ -1,4 +1,4 @@
-callable() and __call__()
+###callable() and __call__()
 Assignment
 Create a class Multiplier with an __init__() method to set a factor.
 
